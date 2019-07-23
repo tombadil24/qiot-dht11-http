@@ -8,13 +8,13 @@
                 "node_model": {
                     "freeboardDesc": "",
                     "freeboardId": "",
-                    "noderedId": "d97c1cc6ac5811e997d4d3e74ca7578e",
+                    "noderedId": "d023c5b0acee11e9b748f752f62cdfd3",
                     "version": 1,
                     "ruleName": "Rule_test",
                     "freeboardName": "Dashboard_test",
                     "ruleDesc": ""
                 },
-                "rules": "H4sIAAAAAAAAA81TTY+bMBD9KyvOkYP5NDm320tPVXqKchjbw4YKMLVNd9Oq/702sECyaXOpqp7gPc+M5808H34ElQx2gQipTCgkBKKSi2AT2HOHjrfAHaiBY+3QY62eH2jwczNlRamQNCsFKVgWZrCkSeT9k4Pfb5VuofEx7g+Erb65f6t7dLnKVC4R9CshVGtU7c5LqM0YYMH2ZiaEaroara82MK7kS7BL43ATnIMdTdz3udLoEg7HuWnM0whLGZGoSGi+9HyytnvQ+LVHY++33qA9KV/uw/u9gxqtn9aLz+x1PZXbbbe0iAjNGKEk21psOn9fbcYarteYTr1Gq14PNwabUJ5kmJBYiFwUwXHRA8ALlgMjRSYEZ/9S0Klvqt8JYncESUwZZUIQloe8ZGtFkqdpDIISxuMoXimq2i8o7mlxHtE+xqquEmNfHZxrBfIC7CengsVBbodgxwChVet9PwDVisWAHrzDGpy+kNBBL6U3zHZ4a7LrLa3kXq129Yj8TXcX10FvcH+ZYqsGVe/1xOECP7eV9Zsy6F6WNF42DI+H+oL8kwOvIXQ6vEwZyFaq5rHSxs5hnvkIA5HOxNvLpFbdPEpvlXAcXfanya1tceWYvzuo7P8fVHTpsRuWOv4CCl0jXtAFAAA="
+                "rules": "H4sIAAAAAAAAA81TTY+bMBD9KyvOkYP5NDm320tPVXqKchjbw4YKMLVNd9Oq/702sIRkUSOteugJ3njeeN74zeFXUMlgF4iQyoRCQiAquQg2gT136OIWuAM1cKwdeqzV8wMNfm8mVpQKSbNSkIJlYQYXmkTePzn4c610C43PcX8gbPXD/Vvdo+MqUzki6NeAUK1RtTsvoTZjggXbmzkgVNPVaH21IeJKvgS7NA43wTnY0cR9nyuNjnA4zk1jnkZYyohERULzS88na7sHjd97NPZO6xabzqEG7Un5kp8+7h3UaP3Zi2f3up5K7rZbWkSEZoxQkm0nqq3NOALXb1RM/UaLfg8rw00oTzJMSCxELorgeNEEwAuWAyNFJgRn7xJ16pvqnaIm6qoodkeUxJRRJgRhechLtlQleZrGIChhPI7ihaqq/Ybinh7nFe1zrOoqMfbVwblWIK/AfnIsWBzkdgh2TBBatd7/A1CtuBjRgw9Yg9MXEjropXTFdIe3Zrt9qYXcm+ddLJO/6e4yddAb3F9TbNWg6r2eOLzAr21l/UsZdBsmjZcNwxJRX5B/ceA1hU6H15Qh2ErVPFba2DnNRz7DEEjnwNvLpFbdPEo3ujgcR5f9bXJLW9w45t8OKvv/BxVde2zFUsc/3v0oDdgFAAA="
             },
             "freeboarddata": {
                 "freeboardSettings": {},
@@ -24,7 +24,7 @@
                             {
                                 "datasourceSettings": [
                                     {
-                                        "dataSourceId": "5d3570a39c31dc0037811117",
+                                        "dataSourceId": "5d366c339c31dc0037814041",
                                         "isDatasource": true,
                                         "field_name": "value",
                                         "script": ""
@@ -38,7 +38,7 @@
                                 "widgettype": "gauge"
                             }
                         ],
-                        "created_on": "2019-07-22T08:15:22.544000Z",
+                        "created_on": "2019-07-23T02:08:51.672000Z",
                         "panesSetting": {
                             "width": 100,
                             "col_width": 1,
@@ -69,11 +69,11 @@
                         "datasourceSetting": {
                             "value": "USER_TOPIC_d5718488"
                         },
-                        "freeboardID": "5d35709a9c31dc003781110c",
+                        "freeboardID": "5d366c339c31dc0037814040",
                         "name": "USER_TOPIC_d5718488",
                         "type": "qiot_customTopic",
                         "qiot_supported": false,
-                        "dataSourceId": "5d3570a39c31dc0037811117",
+                        "dataSourceId": "5d366c339c31dc0037814041",
                         "resourceID": null,
                         "thingID": null
                     }

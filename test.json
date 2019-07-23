@@ -1,0 +1,85 @@
+{
+    "result": {
+        "iotapplication": {
+            "description": "",
+            "appname": "test",
+            "things": [],
+            "rulesdata": {
+                "node_model": {
+                    "freeboardDesc": "",
+                    "freeboardId": "",
+                    "noderedId": "d97c1cc6ac5811e997d4d3e74ca7578e",
+                    "version": 1,
+                    "ruleName": "Rule_test",
+                    "freeboardName": "Dashboard_test",
+                    "ruleDesc": ""
+                },
+                "rules": "H4sIAAAAAAAAA81TTY+bMBD9KyvOkYP5NDm320tPVXqKchjbw4YKMLVNd9Oq/702sECyaXOpqp7gPc+M5808H34ElQx2gQipTCgkBKKSi2AT2HOHjrfAHaiBY+3QY62eH2jwczNlRamQNCsFKVgWZrCkSeT9k4Pfb5VuofEx7g+Erb65f6t7dLnKVC4R9CshVGtU7c5LqM0YYMH2ZiaEaroara82MK7kS7BL43ATnIMdTdz3udLoEg7HuWnM0whLGZGoSGi+9HyytnvQ+LVHY++33qA9KV/uw/u9gxqtn9aLz+x1PZXbbbe0iAjNGKEk21psOn9fbcYarteYTr1Gq14PNwabUJ5kmJBYiFwUwXHRA8ALlgMjRSYEZ/9S0Klvqt8JYncESUwZZUIQloe8ZGtFkqdpDIISxuMoXimq2i8o7mlxHtE+xqquEmNfHZxrBfIC7CengsVBbodgxwChVet9PwDVisWAHrzDGpy+kNBBL6U3zHZ4a7LrLa3kXq129Yj8TXcX10FvcH+ZYqsGVe/1xOECP7eV9Zsy6F6WNF42DI+H+oL8kwOvIXQ6vEwZyFaq5rHSxs5hnvkIA5HOxNvLpFbdPEpvlXAcXfanya1tceWYvzuo7P8fVHTpsRuWOv4CCl0jXtAFAAA="
+            },
+            "freeboarddata": {
+                "freeboardSettings": {},
+                "panes": [
+                    {
+                        "widgets": [
+                            {
+                                "datasourceSettings": [
+                                    {
+                                        "dataSourceId": "5d3570a39c31dc0037811117",
+                                        "isDatasource": true,
+                                        "field_name": "value",
+                                        "script": ""
+                                    }
+                                ],
+                                "widgetSettings": {
+                                    "max_value": 100,
+                                    "min_value": 0,
+                                    "value": "datasources[\"qiotrule_USER_TOPIC_d5718488\"][\"value\"]"
+                                },
+                                "widgettype": "gauge"
+                            }
+                        ],
+                        "created_on": "2019-07-22T08:15:22.544000Z",
+                        "panesSetting": {
+                            "width": 100,
+                            "col_width": 1,
+                            "col": {
+                                "0": 0,
+                                "1": 1,
+                                "2": 1,
+                                "3": 1,
+                                "4": 1,
+                                "5": 1
+                            },
+                            "row": {
+                                "0": 1,
+                                "1": 1,
+                                "2": 1,
+                                "3": 1,
+                                "4": 1,
+                                "5": 1
+                            }
+                        }
+                    }
+                ],
+                "description": "",
+                "fbversion": "1.1.400",
+                "name": "Dashboard_test",
+                "dataSources": [
+                    {
+                        "datasourceSetting": {
+                            "value": "USER_TOPIC_d5718488"
+                        },
+                        "freeboardID": "5d35709a9c31dc003781110c",
+                        "name": "USER_TOPIC_d5718488",
+                        "type": "qiot_customTopic",
+                        "qiot_supported": false,
+                        "dataSourceId": "5d3570a39c31dc0037811117",
+                        "resourceID": null,
+                        "thingID": null
+                    }
+                ]
+            },
+            "version": "1.1.400"
+        }
+    }
+}
